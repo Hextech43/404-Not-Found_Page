@@ -4,7 +4,7 @@
 
 }
 body{
-    height: 100vh;
+    height: 40em;
     width: 100vw;
     /* background-color:aqua; */
     margin: 0;
@@ -97,7 +97,7 @@ padding-top: 80px;
 @media(min-width: 980px) {
     
     body{
-        height: 100vh;
+        height: 40em;
         width: 100vw;
         /* background-color:red; */
         margin: 0;
